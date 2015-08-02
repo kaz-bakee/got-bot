@@ -9,5 +9,6 @@ int main(){
 	
 	helpOthers();
 	
+	helpOthers();	
 	return 0;
 }

@@ -8,7 +8,5 @@ int main(){
 	printf("How are you ?\n");
 	
 	helpOthers();
-	
-	helpOthers();	
 	return 0;
 }

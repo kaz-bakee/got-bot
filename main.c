@@ -8,12 +8,7 @@ int main(){
 	
 	// test comment
 	
-	// another comment
-	
-	
-	// line added
-	
-	// and another one
+
 	helpOthers();
 	return 0;
 }

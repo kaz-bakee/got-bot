@@ -12,6 +12,8 @@ int main(){
 	
 	
 	// line added
+	
+	// and another one
 	helpOthers();
 	return 0;
 }
